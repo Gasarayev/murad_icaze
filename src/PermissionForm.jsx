@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import emailjs from "emailjs-com";
-import "./PermissionForm.css";
+import "./permissionForm.css";
 
 const PermissionForm = () => {
   const [name, setName] = useState("");
