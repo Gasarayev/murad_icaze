@@ -1,5 +1,5 @@
 import './App.css'
-import PermissionForm from './PermissionForm'
+import PermissionForm from './PermissionForm.jsx'
 
 function App() {
   
